@@ -1,7 +1,7 @@
 # Terraform Inventory
 
-[![Build Status](https://travis-ci.org/adammck/terraform-inventory.svg?branch=master)](https://travis-ci.org/adammck/terraform-inventory)
-[![GitHub release](https://img.shields.io/github/release/adammck/terraform-inventory.svg?maxAge=2592000)](https://github.com/adammck/terraform-inventory/releases)
+[![Build Status](https://travis-ci.org/jesielconceicao/terraform-inventory.svg?branch=master)](https://travis-ci.org/adammck/terraform-inventory)
+[![GitHub release](https://img.shields.io/github/release/jesielconceicao/terraform-inventory.svg?maxAge=2592000)](https://github.com/adammck/terraform-inventory/releases)
 [![GitHub release](https://img.shields.io/homebrew/v/terraform-inventory.svg?maxAge=2592000)](http://braumeister.org/formula/terraform-inventory)
 
 This is a little Go app which generates a dynamic [Ansible][ans] inventory from
